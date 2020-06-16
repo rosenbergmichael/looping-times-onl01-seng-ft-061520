@@ -1,5 +1,5 @@
 def using_times
-puts ""	#your code here
+puts "Wingardium Leviosa"
 end
 
 
